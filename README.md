@@ -1,11 +1,12 @@
-**Prerequisites for .ipynb(Colab) file
-**
+##Prerequisites for .ipynb(Colab) file
+
 Create a folder called Data under sample_data and upload ExtractedText.pdf to it
 
 Download the zephyr-7b-beta.Q4_K_M.gguf model from https://huggingface.co/TheBloke/zephyr-7B-beta-GGUF/tree/main and add it to the Google drive and mount it.
 
-**Workflow
-**
+
+##Workflow
+
 Information was extracted from websites like radiologyassistant.nl in the form of .md files with a markdown parser.
 
 These .md files were parsed and useful data was extracted from all the .md files and stored in pdf format.
