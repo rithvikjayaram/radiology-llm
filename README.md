@@ -7,7 +7,7 @@ Download the zephyr-7b-beta.Q4_K_M.gguf model from https://huggingface.co/TheBlo
 
 ##Workflow
 
-Information was extracted from websites like radiologyassistant.nl in the form of .md files with a markdown parser.
+Information was extracted from websites like radiologyassistant.nl in the form of .md using a markdown-crawler Python library.
 
 These .md files were parsed and useful data was extracted from all the .md files and stored in pdf format.
 
